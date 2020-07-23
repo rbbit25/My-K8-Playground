@@ -1,1 +1,2 @@
-# My-K8-Playground
+# k8-playground
+Kubernetes Playground Repo
